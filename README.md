@@ -33,7 +33,7 @@ A modern, responsive **Instagram-style gallery** with tabs for **Posts** and **V
 | **YouTube API**       | Embedded video playback              |
 
 ## 🎥 Live Demo  
-🔗 [View Demo](your-demo-link)  
+🔗 [View Demo](https://sudharsh-s.github.io/instagram-galley/)  
 
 ---
 
